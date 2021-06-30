@@ -1,4 +1,5 @@
-#EXAMPLE code
+# EXAMPLE code
+# Adding code for autorun
 
 terraform {
   backend "remote" {
